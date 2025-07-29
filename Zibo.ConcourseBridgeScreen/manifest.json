@@ -1,0 +1,11 @@
+{
+	"entranceAssembly": "Zibo.ConcourseBridgeScreen.dll",
+	"name": "淄博站廊桥看版",
+	"id": "Zibo.ConcourseBridgeScreen",
+	"url": "https://github.com/wxl0430/CRSimPlugins",
+	"version": "0.0.0.0",
+	"apiVersion": "3.0.0.0",
+	"author": "wxl0430",
+	"type": "ScreenStyle",
+	"description": "位于淄博站出发廊桥的悬挂屏幕，欢迎来烧烤之都旅游！"
+}

@@ -1,0 +1,5 @@
+{
+	"parameters": [ "station" , "ticketCheck" , "text"],
+	"region": "淄博",
+	"type": "检票口屏"
+}

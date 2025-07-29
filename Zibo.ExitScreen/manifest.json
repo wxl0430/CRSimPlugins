@@ -1,0 +1,11 @@
+{
+	"entranceAssembly": "Zibo.ExitScreen.dll",
+	"name": "淄博站出站口看版",
+	"id": "Zibo.ExitScreen",
+	"url": "https://github.com/wxl0430/CRSimPlugins",
+	"version": "0.0.0.0",
+	"apiVersion": "3.0.0.0",
+	"author": "wxl0430",
+	"type": "ScreenStyle",
+	"description": "位于淄博站出站口的一个看板，我敢信你第一次出站绝对找不到！"
+}
