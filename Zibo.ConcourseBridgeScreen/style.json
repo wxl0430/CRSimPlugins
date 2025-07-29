@@ -1,0 +1,5 @@
+{
+	"parameters": [ "station" , "platform" , "location" ],
+	"region": "淄博",
+	"type": "走廊出发屏"
+}

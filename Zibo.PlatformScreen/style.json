@@ -1,0 +1,5 @@
+{
+	"parameters": [ "station" , "platform" , "location" , "text" ],
+	"region": "淄博",
+	"type": "站台屏"
+}

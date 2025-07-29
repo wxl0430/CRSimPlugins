@@ -1,0 +1,11 @@
+{
+	"entranceAssembly": "Zibo.SecondaryScreen.dll",
+	"name": "淄博站次要看版",
+	"id": "Zibo.SecondaryScreen",
+	"url": "https://github.com/wxl0430/CRSimPlugins",
+	"version": "0.0.0.0",
+	"apiVersion": "3.0.0.0",
+	"author": "wxl0430",
+	"type": "ScreenStyle",
+	"description": "位于淄博站内部的小屏幕，欢迎来烧烤之都旅游！"
+}
